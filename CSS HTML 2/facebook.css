@@ -1,0 +1,62 @@
+body{
+    background-color: skyblue
+}
+
+.fb-logo{
+    width: 30rem;
+    padding-top: 150px;
+}
+.img-logo{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.logotext{
+    padding-top: 0px;
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.fb{
+    float: right;
+    margin-right: 50px;
+    margin-top: -160px;
+    padding: 0px;
+}
+.fb-form{
+    background-color: white;
+    margin-top: -50px;
+    height: 300px;
+
+} 
+.login{
+    background-color: blue  ;
+    width: 17rem;
+    height: 3rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border: 0px;
+}
+.email{
+    width: 17rem;
+    height: 3rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.password{
+    width: 17rem;
+    height: 3rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.create{
+    width: 10rem;
+    height: 3rem;
+    background-color: rgb(40, 180, 40);
+    margin-left: 4.5rem;
+    border: 0px;
+}
+.forget{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 4.5rem;
+}
